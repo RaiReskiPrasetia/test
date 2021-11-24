@@ -1,0 +1,7 @@
+{
+  "name": "quiz-raiiii",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
